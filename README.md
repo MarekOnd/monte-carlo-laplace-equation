@@ -3,7 +3,10 @@
 ## Prerequisites
 
 Depending on which implementations are used:
-- Python
+- Make
+- Python + packages in requirements.txt
+- C++
+- CUDA library
 
 ## Implementations
 

@@ -6,7 +6,8 @@ Depending on which implementations are used:
 - Make
 - Python + packages in requirements.txt
 - C++
-- CUDA library
+  - CUDA library
+  - OpenCV2 library
 
 ## Implementations
 
